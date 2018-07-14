@@ -2,7 +2,7 @@
 
 The main site-ffki is at 
 
-https://git.freifunk.in-kiel.de/ffki-site/
+https://gitlab.toppoint.de/ffki/ffki-site
 
 and a mirror at
 
